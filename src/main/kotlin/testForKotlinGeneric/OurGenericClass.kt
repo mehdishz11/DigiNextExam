@@ -44,7 +44,7 @@ class MyClass{
         }
 
         val a1:MyGeneric<out Base2> = MyGeneric<Base2>()
-        //New changes on feature 3
+        //New changes on feature 4
 
 
 
