@@ -48,6 +48,7 @@ class MyClass{
         //some changes 2 in feature 3
         //some changes 2 in feature 4
         //some changes 2 in feature 5
+        //some changes 2 in feature 1
 
 
 
